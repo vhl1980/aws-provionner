@@ -6,6 +6,8 @@ https://computingforgeeks.com/build-aws-ec2-machine-images-with-packer-and-ansib
 
 Create Strategy with policies :
 
+> TODO REMOVE USELESS POLICIES
+
 ``` bash
 {
     "Version": "2012-10-17",
